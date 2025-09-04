@@ -11,6 +11,7 @@ Amacım hem "HTML, CSS ve JavaScript" bilgilerimi pekiştirmek hem de görselli�
 - Basit bir "müzik listesi (playlist)" mantığını öğrenmek ve uygulamak  
 - Aynı zamanda projeye görsel bir yön kazandırmak (kapak resimleri, buton ikonları vb.)
 - İleri,geri butonları ile şarkı değişimi yapılabilmektedir ayrıca her şarkı bitiminde "ended" özelliği sayesinde bir sonraki şarkıya geçmektedir.
+- Butonlarda görsel anlamda iyi gözükmesi için CSS'de "hover" özelliğide kullanılmıştır.
 
 Kullanılan Teknolojiler
 
